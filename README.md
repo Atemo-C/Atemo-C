@@ -5,9 +5,9 @@ Greetings, and welcome to my profile. I am Atemo Cayaku; I am mostly here to pos
 `IPA: [atemo] [ʃajaku]`
 
 # Links
-My NixOS Wiki profile can be found [https://wiki.nixos.org/wiki/User:Atemo_C](here).
+My NixOS Wiki profile can be found [here](https://wiki.nixos.org/wiki/User:Atemo_C).
 
-My NixOS configuration can be found [https://github.com/Atemo-C/NixOS-Configuration](here).
+My NixOS configuration can be found [here](https://github.com/Atemo-C/NixOS-Configuration).
 
 # Contacts
 You may feel free to contact me on:
