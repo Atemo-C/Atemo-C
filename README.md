@@ -9,6 +9,8 @@ My NixOS Wiki profile can be found [here](https://wiki.nixos.org/wiki/User:Atemo
 
 My NixOS configuration can be found [here](https://github.com/Atemo-C/NixOS-Configuration).
 
+The potentially next overhaul of said configuration can be found [here](https://github.com/Atemo-C/NixOS-configuration-NEXT).
+
 # Contacts
 You may feel free to contact me on:
 
