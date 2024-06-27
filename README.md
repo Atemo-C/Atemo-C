@@ -12,5 +12,6 @@ My NixOS configuration can be found [here](https://github.com/Atemo-C/NixOS-conf
 # Contacts
 You may feel free to contact me on:
 
-* **Matrix** at `@atemo:matrix.org` *(preferred)*.
+* **Matrix** at `@atemo:matrix.org`.
+* **Revolt** at `Atemo#9690`.
 * **Discord** at `@atemoc`.
