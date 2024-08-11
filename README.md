@@ -10,7 +10,8 @@ My NixOS Wiki profile can be found [here](https://wiki.nixos.org/wiki/User:Atemo
 My NixOS configuration can be found [here](https://github.com/Atemo-C/NixOS-configuration).
 
 # Profile picture
-From an emoji pack by this fine person, [here](https://volpeon.ink/emojis/floof/).
+By cathodegaytube:
+https://static1.e621.net/data/18/36/18360202002a2d7b7d0cebbef5562d4c.jpg
 
 # Contacts
 You may feel free to contact me on:
