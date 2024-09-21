@@ -10,8 +10,7 @@ My NixOS Wiki profile can be found [here](https://wiki.nixos.org/wiki/User:Atemo
 My NixOS configuration can be found [here](https://github.com/Atemo-C/NixOS-configuration).
 
 # Profile picture
-By cathodegaytube:
-https://static1.e621.net/data/18/36/18360202002a2d7b7d0cebbef5562d4c.jpg
+By cathodegaytube [here](https://x.com/cathodegaytube/status/1462314685634543618).
 
 # Contacts
 You may feel free to contact me on:
