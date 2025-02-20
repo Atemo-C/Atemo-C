@@ -16,5 +16,4 @@ By cathodegaytube [here](https://x.com/cathodegaytube/status/1462314685634543618
 You may feel free to contact me on:
 
 * **Matrix** at `@atemo:matrix.org`.
-* **Revolt** at `Atemo#9690`.
 * **Discord** at `@atemoc`.
